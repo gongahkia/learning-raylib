@@ -1,6 +1,5 @@
 #include "raylib.h"
 
-
 int main(){
 
     float character_pos[2] = {400,250}; // temporarily hard coded this to be the centre of the screen
