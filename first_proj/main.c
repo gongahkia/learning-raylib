@@ -1,13 +1,11 @@
 #include "raylib.h"
 
-
 int main(){
 
     float character_pos[] = {0,0};
 
     InitWindow(800, 500, "testing");
     SetTargetFPS(60);
-   
 
     while (!WindowShouldClose()){
     
